@@ -1,0 +1,6 @@
+C:\Users\Пользователь\source\repos\enemyCreator\bin\Debug\enemyCreator.dll
+C:\Users\Пользователь\source\repos\enemyCreator\bin\Debug\enemyCreator.pdb
+C:\Users\Пользователь\source\repos\enemyCreator\obj\Debug\enemyCreator.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\enemyCreator\obj\Debug\enemyCreator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\enemyCreator\obj\Debug\enemyCreator.dll
+C:\Users\Пользователь\source\repos\enemyCreator\obj\Debug\enemyCreator.pdb
